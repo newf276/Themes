@@ -1,8 +1,8 @@
 #Themes:
 
-Chinook:   https://tinyurl.com/pfu35de9
+Chinook:    https://tinyurl.com/pfu35de9
 
-Coho:     https://tinyurl.com/msxmv8ys
+Coho:       https://tinyurl.com/msxmv8ys
 
 Halibut:    https://tinyurl.com/44yncxk6
 
